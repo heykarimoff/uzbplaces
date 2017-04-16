@@ -8,4 +8,4 @@ class Command(BaseCommand):
     requires_system_checks = True
 
     def handle(self, *args, **options):
-        call_command("load_data", "places.json", app_label="uzbplaces")
+        call_command("loaddata", "places.json", app_label="uzbplaces")
