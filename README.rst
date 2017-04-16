@@ -16,14 +16,28 @@ Quick start
         ...
         'uzbplaces',
     ]
+2. Add GEOPOSITION_GOOGLE_MAPS_API_KEY to your settings.py
 
-2. Include the polls URLconf in your project urls.py like this::
+3. Add following to settings.py
+    # Model Translation
+    MODELTRANSLATION_LANGUAGES = ('en', 'ru', 'uz')
+    MODELTRANSLATION_ADMIN_SCRIPTS = (
+        'http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js',
+        'http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js',
+        'modeltranslation/js/tabbed_translation_fields.js',
+    )
+
+    MODELTRANSLATION_ADMIN_STYLE = {
+        'screen': ('modeltranslation/css/tabbed_translation_fields.css',),
+    }
+
+4. Include the polls URLconf in your project urls.py like this::
 
     url(r'^uzbplaces/', include('uzbplaces.urls')),
 
-3. Run `python manage.py migrate` to create the polls models.
+5. Run `python manage.py migrate` to create the polls models.
 
-4. Start the development server and visit http://127.0.0.1:8000/admin/
+6. Start the development server and visit http://127.0.0.1:8000/admin/
    (you'll need the Admin app enabled).
 
-5. Visit http://127.0.0.1:8000/uzbplaces/ to use.
+7. Visit http://127.0.0.1:8000/uzbplaces/ to use.

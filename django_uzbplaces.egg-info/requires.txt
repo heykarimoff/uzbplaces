@@ -1,2 +1,2 @@
-django-geoposition
 django-modeltranslation
+django-geoposition

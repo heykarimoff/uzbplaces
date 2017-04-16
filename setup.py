@@ -9,20 +9,24 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-uzbplaces',
-    install_requires = ["django-geoposition", "django-modeltranslation"],
-    version='0.1',
-    packages=find_packages(),
+    install_requires=["django-modeltranslation", "django-geoposition"],
+    version='0.3',
+    packages=find_packages(exclude=['dist',]),
+    package_data={
+        'places': ['uzbplaces.fixtures.places.json'],
+    },
     include_package_data=True,
-    license='BSD License',  # example license
+    license='MIT License',
     description='UzbPlaces is a simple Django app to integrate places in Uzbekistan.',
+    keywords='sample django places development',
     long_description=README,
-    url='https://www.karimoff.me/',
+    url='https://github.com/MrBrownWins/uzbplaces',
     author='Mukhammad Karimov',
     author_email='hey@karimoff.me',
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
-        'Framework :: Django :: 10.1',  # replace "X.Y" as appropriate
+        'Framework :: Django :: 1.11',  # replace "X.Y" as appropriate
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',  # example license
         'Operating System :: OS Independent',
