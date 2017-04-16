@@ -5,8 +5,6 @@ UzbPlaces
 
 [![Documentation Status](https://readthedocs.org/projects/uzbplaces/badge/?version=latest)](http://uzbplaces.readthedocs.io/en/latest/?badge=latest)(http://uzbplaces.readthedocs.io/en/latest/?badge=latest)
 
-[![Build Status](https://travis-ci.com/MrBrownWins/poputi.svg?token=1xPGDqtFZ7JWxFXCimzN&branch=master)](https://travis-ci.com/MrBrownWins/poputi)
-
 UzbPlaces is a simple Django app to integrate places in Uzbekistan. For each
 province, there are regions.
 
