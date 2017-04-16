@@ -2780,7 +2780,7 @@
         "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u042f\u043d\u0433\u0438\u044e\u043b\u044c",
         "name_uz": "\u042f\u043d\u0433\u0438\u0439\u045e\u043b \u0448\u0430\u04b3\u0440\u0438",
         "code": 23,
-        "province": 15,
+        "province": 13,
         "weight": 0,
         "location": null
     }
@@ -2794,7 +2794,7 @@
         "name_ru": "\u0423\u0440\u0442\u0430-\u0427\u0438\u0440\u0447\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
         "name_uz": "\u040e\u0440\u0442\u0430-\u0447\u0438\u0440\u0447\u0438\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
         "code": 25,
-        "province": 15,
+        "province": 13,
         "weight": 0,
         "location": null
     }
@@ -2808,7 +2808,7 @@
         "name_ru": "\u0440\u0430\u0439\u043e\u043d \u0411\u0443\u0441\u0442\u0430\u043d\u043b\u0438\u043a",
         "name_uz": "\u0411\u045e\u0441\u0442\u043e\u043d\u043b\u0438\u043a \u0442\u0443\u043c\u0430\u043d\u0438",
         "code": 22,
-        "province": 15,
+        "province": 13,
         "weight": 0,
         "location": null
     }
@@ -2822,7 +2822,7 @@
         "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0427\u0438\u0440\u0447\u0438\u043a",
         "name_uz": "\u0427\u0438\u0440\u0447\u0438\u049b \u0448\u0430\u04b3\u0440\u0438",
         "code": 21,
-        "province": 15,
+        "province": 13,
         "weight": 0,
         "location": null
     }
@@ -2836,7 +2836,7 @@
         "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0410\u043d\u0433\u0440\u0435\u043d",
         "name_uz": "Angren shahri",
         "code": 18,
-        "province": 15,
+        "province": 13,
         "weight": 0,
         "location": null
     }
@@ -2850,7 +2850,7 @@
         "name_ru": "\u0417\u0430\u043d\u0433\u0438\u043e\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
         "name_uz": "\u0417\u0430\u043d\u0433\u0438\u043e\u0442\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
         "code": 26,
-        "province": 15,
+        "province": 13,
         "weight": 0,
         "location": null
     }
