@@ -15,7 +15,7 @@ uzbplaces/tests.py
 uzbplaces/translation.py
 uzbplaces/urls.py
 uzbplaces/views.py
-uzbplaces/fixtures/__init__.py
+uzbplaces/fixtures/places.json
 uzbplaces/management/__init__.py
 uzbplaces/management/commands/__init__.py
 uzbplaces/management/commands/populate_data.py

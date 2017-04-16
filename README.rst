@@ -2,6 +2,9 @@
 UzbPlaces
 =====
 
+[![Documentation Status](https://readthedocs.org/projects/uzbplaces/badge/?version=latest)](http://uzbplaces.readthedocs.io/en/latest/?badge=latest)
+
+
 UzbPlaces is a simple Django app to integrate places in Uzbekistan. For each
 province, there are regions.
 
