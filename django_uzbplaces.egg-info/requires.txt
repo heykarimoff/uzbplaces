@@ -1,0 +1,2 @@
+django-geoposition
+django-modeltranslation

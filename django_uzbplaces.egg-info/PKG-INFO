@@ -1,0 +1,51 @@
+Metadata-Version: 1.1
+Name: django-uzbplaces
+Version: 0.1
+Summary: UzbPlaces is a simple Django app to integrate places in Uzbekistan.
+Home-page: https://www.karimoff.me/
+Author: Mukhammad Karimov
+Author-email: hey@karimoff.me
+License: BSD License
+Description: =====
+        UzbPlaces
+        =====
+        
+        UzbPlaces is a simple Django app to integrate places in Uzbekistan. For each
+        province, there are regions.
+        
+        Detailed documentation is in the "docs" directory.
+        
+        Quick start
+        -----------
+        
+        1. Add "uzbplaces" to your INSTALLED_APPS setting like this::
+        
+            INSTALLED_APPS = [
+                ...
+                'uzbplaces',
+            ]
+        
+        2. Include the polls URLconf in your project urls.py like this::
+        
+            url(r'^uzbplaces/', include('uzbplaces.urls')),
+        
+        3. Run `python manage.py migrate` to create the polls models.
+        
+        4. Start the development server and visit http://127.0.0.1:8000/admin/
+           (you'll need the Admin app enabled).
+        
+        5. Visit http://127.0.0.1:8000/uzbplaces/ to use.
+        
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 10.1
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
