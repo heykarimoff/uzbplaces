@@ -2,6 +2,7 @@
 UzbPlaces
 =====
 
+
 [![Documentation Status](https://readthedocs.org/projects/uzbplaces/badge/?version=latest)](http://uzbplaces.readthedocs.io/en/latest/?badge=latest)
 
 
