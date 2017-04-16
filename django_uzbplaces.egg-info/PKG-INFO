@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: django-uzbplaces
-Version: 0.4
+Version: 0.4.1
 Summary: UzbPlaces is a simple Django app to integrate places in Uzbekistan.
 Home-page: https://github.com/MrBrownWins/uzbplaces
 Author: Mukhammad Karimov
