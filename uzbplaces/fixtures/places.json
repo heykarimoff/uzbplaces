@@ -1,0 +1,2858 @@
+[
+{
+    "model": "uzbplaces.province",
+    "pk": 1,
+    "fields": {
+        "name": "the Republic of Karakalpakstan",
+        "name_en": "the Republic of Karakalpakstan",
+        "name_ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0430\u043a\u0430\u043b\u043f\u0430\u043a\u0441\u0442\u0430\u043d",
+        "name_uz": "Qoraqlpog'iston Respublikasi",
+        "code": 1,
+        "weight": 2,
+        "location": "42.461891,59.61663120000003"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 2,
+    "fields": {
+        "name": "Andijan province",
+        "name_en": "Andijan province",
+        "name_ru": "\u0410\u043d\u0434\u0438\u0436\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Andijon viloyati",
+        "code": 2,
+        "weight": 2,
+        "location": "40.8153561,72.28375000000005"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 3,
+    "fields": {
+        "name": "Namangan province",
+        "name_en": "Namangan province",
+        "name_ru": "\u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Namangan Viloyati",
+        "code": 3,
+        "weight": 2,
+        "location": "41.0057729,71.64360280000005"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 4,
+    "fields": {
+        "name": "Fergana province",
+        "name_en": "Fergana province",
+        "name_ru": "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Farg'ona Viloyati",
+        "code": 4,
+        "weight": 2,
+        "location": "40.37338020000001,71.79783329999998"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 5,
+    "fields": {
+        "name": "Bukhara province",
+        "name_en": "Bukhara province",
+        "name_ru": "\u0411\u0443\u0445\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Buxoro Viloyati",
+        "code": 5,
+        "weight": 2,
+        "location": "39.7680827,64.45557689999998"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 6,
+    "fields": {
+        "name": "Xorazm province",
+        "name_en": "Xorazm province",
+        "name_ru": "\u0425\u043e\u0440\u0435\u0437\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Xorazm Viloyati",
+        "code": 6,
+        "weight": 2,
+        "location": "41.3565336,60.856668600000035"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 7,
+    "fields": {
+        "name": "Surxondaryo province",
+        "name_en": "Surxondaryo province",
+        "name_ru": "\u0421\u0443\u0440\u0445\u0430\u043d\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Surxandaryo Viloyati",
+        "code": 7,
+        "weight": 2,
+        "location": "37.26198272800543,67.31267488906246"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 8,
+    "fields": {
+        "name": "Qashqadaryo province",
+        "name_en": "Qashqadaryo province",
+        "name_ru": "\u041a\u0430\u0448\u043a\u0430\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Qashqadaryo Viloyati",
+        "code": 8,
+        "weight": 2,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 9,
+    "fields": {
+        "name": "Jizzakh province",
+        "name_en": "Jizzakh province",
+        "name_ru": "\u0414\u0436\u0438\u0437\u0430\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Jizzax Viloyati",
+        "code": 9,
+        "weight": 2,
+        "location": "40.1250439,67.88082429999997"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 10,
+    "fields": {
+        "name": "Navoiy province",
+        "name_en": "Navoiy province",
+        "name_ru": "\u041d\u0430\u0432\u043e\u0438\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Navoiy Viloyati",
+        "code": 10,
+        "weight": 2,
+        "location": "40.103922,65.36883349999994"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 11,
+    "fields": {
+        "name": "Samarqand Region",
+        "name_en": "Samarqand Region",
+        "name_ru": "\u0421\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Samarqand Viloyati",
+        "code": 11,
+        "weight": 2,
+        "location": "39.627012,66.97497309999994"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 12,
+    "fields": {
+        "name": "Sirdaryo Region",
+        "name_en": "Sirdaryo Region",
+        "name_ru": "\u0421\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Sirdaryo Viloyati",
+        "code": 12,
+        "weight": 2,
+        "location": "40.4915088,68.78107669999997"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 13,
+    "fields": {
+        "name": "Tashkent province",
+        "name_en": "Tashkent province",
+        "name_ru": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_uz": "Toshkent Viloyati",
+        "code": 13,
+        "weight": 1,
+        "location": "41.30805509400344,69.25647949218751"
+    }
+},
+{
+    "model": "uzbplaces.province",
+    "pk": 14,
+    "fields": {
+        "name": "Tashkent City",
+        "name_en": "Tashkent City",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0422\u0430\u0448\u043a\u0435\u043d\u0442",
+        "name_uz": "Toshkent shaxri",
+        "code": 14,
+        "weight": 0,
+        "location": "41.30392865603575,69.2502996826172"
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 1,
+    "fields": {
+        "name": "Amudaryo district",
+        "name_en": "Amudaryo district",
+        "name_ru": "\u0410\u043c\u0443\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Amudaryo tumani",
+        "code": 91,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 2,
+    "fields": {
+        "name": "Beruniy district",
+        "name_en": "Beruniy district",
+        "name_ru": "\u0411\u0435\u0440\u0443\u043d\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Beruniy tumani",
+        "code": 92,
+        "province": 1,
+        "weight": 0,
+        "location": "42.5625699,61.124754800000005"
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 3,
+    "fields": {
+        "name": "Chimboy district",
+        "name_en": "Chimboy district",
+        "name_ru": "\u0427\u0438\u043c\u0431\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Chimboy tumani",
+        "code": 93,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 4,
+    "fields": {
+        "name": "Ellikqala district",
+        "name_en": "Ellikqala district",
+        "name_ru": "\u042d\u043b\u043b\u0438\u043a\u043a\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Ellikqala tumani",
+        "code": 94,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 5,
+    "fields": {
+        "name": "Kegeyli district",
+        "name_en": "Kegeyli district",
+        "name_ru": "\u041a\u0435\u0433\u0435\u0439\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Kegeyli tumani",
+        "code": 95,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 6,
+    "fields": {
+        "name": "Mo'ynoq district",
+        "name_en": "Mo'ynoq district",
+        "name_ru": "\u041c\u0443\u0439\u043d\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Mo'ynoq tumani",
+        "code": 96,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 7,
+    "fields": {
+        "name": "Nukus district",
+        "name_en": "Nukus district",
+        "name_ru": "\u041d\u0443\u043a\u0443\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Nukus tumani",
+        "code": 97,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 8,
+    "fields": {
+        "name": "Qonliko'l district",
+        "name_en": "Qonliko'l district",
+        "name_ru": "\u041a\u0430\u043d\u043b\u044b\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qonliko'l tumani",
+        "code": 98,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 9,
+    "fields": {
+        "name": "Qorauzaq district",
+        "name_en": "Qorauzaq district",
+        "name_ru": "\u041a\u0430\u0440\u0430\u0443\u0437\u044f\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qorauzaq tumani",
+        "code": 99,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 10,
+    "fields": {
+        "name": "Qung'irot district",
+        "name_en": "Qung'irot district",
+        "name_ru": "\u041a\u0443\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qung'irot tumani",
+        "code": 100,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 11,
+    "fields": {
+        "name": "Shumanay district",
+        "name_en": "Shumanay district",
+        "name_ru": "\u0428\u0443\u043c\u0430\u043d\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Shumanay tumani",
+        "code": 101,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 12,
+    "fields": {
+        "name": "Taxtako'pir district",
+        "name_en": "Taxtako'pir district",
+        "name_ru": "\u0422\u0430\u0445\u0442\u0430\u043a\u0443\u043f\u044b\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Taxtako'pir tumani",
+        "code": 102,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 13,
+    "fields": {
+        "name": "To'rtko'l district",
+        "name_en": "To'rtko'l district",
+        "name_ru": "\u0422\u0443\u0440\u0442\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "To'rtko'l tumani",
+        "code": 103,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 14,
+    "fields": {
+        "name": "Xo'jayli district",
+        "name_en": "Xo'jayli district",
+        "name_ru": "\u0425\u043e\u0434\u0436\u0435\u0439\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Xo'jayli tumani",
+        "code": 104,
+        "province": 1,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 15,
+    "fields": {
+        "name": "Andijon district",
+        "name_en": "Andijon district",
+        "name_ru": "\u0410\u043d\u0434\u0438\u0436\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Andijon tumani",
+        "code": 105,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 16,
+    "fields": {
+        "name": "Asaka district",
+        "name_en": "Asaka district",
+        "name_ru": "\u0410\u0441\u0430\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Asaka tumani",
+        "code": 106,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 17,
+    "fields": {
+        "name": "Baliqchi district",
+        "name_en": "Baliqchi district",
+        "name_ru": "\u0411\u0430\u043b\u044b\u043a\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Baliqchi tumani",
+        "code": 107,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 18,
+    "fields": {
+        "name": "Bo'z district",
+        "name_en": "Bo'z district",
+        "name_ru": "\u0411\u043e\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Bo'z tumani",
+        "code": 108,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 19,
+    "fields": {
+        "name": "Buloqboshi district",
+        "name_en": "Buloqboshi district",
+        "name_ru": "\u0411\u0443\u043b\u0430\u043a\u0431\u0430\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Buloqboshi tumani",
+        "code": 109,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 20,
+    "fields": {
+        "name": "Izboskan district",
+        "name_en": "Izboskan district",
+        "name_ru": "\u0418\u0437\u0431\u0430\u0441\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Izboskan tumani",
+        "code": 110,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 21,
+    "fields": {
+        "name": "Jalolquduq district",
+        "name_en": "Jalolquduq district",
+        "name_ru": "\u0414\u0436\u0430\u043b\u0430\u043a\u0443\u0434\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Jalolquduq tumani",
+        "code": 111,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 22,
+    "fields": {
+        "name": "Marhamat district",
+        "name_en": "Marhamat district",
+        "name_ru": "\u041c\u0430\u0440\u0445\u0430\u043c\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Marhamat tumani",
+        "code": 112,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 23,
+    "fields": {
+        "name": "Oltinko'l district",
+        "name_en": "Oltinko'l district",
+        "name_ru": "\u0410\u043b\u0442\u044b\u043d\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Oltinko'l tumani",
+        "code": 113,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 24,
+    "fields": {
+        "name": "Paxtaobod district",
+        "name_en": "Paxtaobod district",
+        "name_ru": "\u041f\u0430\u0445\u0442\u0430\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Paxtaobod tumani",
+        "code": 114,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 25,
+    "fields": {
+        "name": "Qo'rg'ontepa district",
+        "name_en": "Qo'rg'ontepa district",
+        "name_ru": "\u041a\u0443\u0440\u0433\u0430\u043d\u0442\u0435\u043f\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qo'rg'ontepa tumani",
+        "code": 115,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 26,
+    "fields": {
+        "name": "Shahrixon district",
+        "name_en": "Shahrixon district",
+        "name_ru": "\u0428\u0430\u0445\u0440\u0438\u0445\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Shahrixon tumani",
+        "code": 116,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 27,
+    "fields": {
+        "name": "Ulug'nor district",
+        "name_en": "Ulug'nor district",
+        "name_ru": "\u0423\u043b\u0443\u0433\u043d\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Ulug'nor tumani",
+        "code": 117,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 28,
+    "fields": {
+        "name": "Xo'jaobod district",
+        "name_en": "Xo'jaobod district",
+        "name_ru": "\u0425\u043e\u0434\u0436\u0430\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Xo'jaobod tumani",
+        "code": 118,
+        "province": 2,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 29,
+    "fields": {
+        "name": "Chortoq district",
+        "name_en": "Chortoq district",
+        "name_ru": "\u0427\u0430\u0440\u0442\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Chortoq tumani",
+        "code": 119,
+        "province": 3,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 30,
+    "fields": {
+        "name": "Chust district",
+        "name_en": "Chust district",
+        "name_ru": "\u0427\u0443\u0441\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Chust tumani",
+        "code": 120,
+        "province": 3,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 31,
+    "fields": {
+        "name": "Kosonsoy district",
+        "name_en": "Kosonsoy district",
+        "name_ru": "\u041a\u0430\u0441\u0430\u043d\u0441\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Kosonsoy tumani",
+        "code": 121,
+        "province": 3,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 32,
+    "fields": {
+        "name": "Mingbuloq district",
+        "name_en": "Mingbuloq district",
+        "name_ru": "\u041c\u0438\u043d\u0433\u0431\u0443\u043b\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Mingbuloq tumani",
+        "code": 122,
+        "province": 3,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 33,
+    "fields": {
+        "name": "Namangan district",
+        "name_en": "Namangan district",
+        "name_ru": "\u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Namangan tumani",
+        "code": 123,
+        "province": 3,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 34,
+    "fields": {
+        "name": "Norin district",
+        "name_en": "Norin district",
+        "name_ru": "\u041d\u0430\u0440\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Norin tumani",
+        "code": 124,
+        "province": 3,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 35,
+    "fields": {
+        "name": "Pop district",
+        "name_en": "Pop district",
+        "name_ru": "\u041f\u0430\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Pop tumani",
+        "code": 125,
+        "province": 3,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 36,
+    "fields": {
+        "name": "To'raqo'rg'on district",
+        "name_en": "To'raqo'rg'on district",
+        "name_ru": "\u0422\u0443\u0440\u0430\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "To'raqo'rg'on tumani",
+        "code": 126,
+        "province": 3,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 37,
+    "fields": {
+        "name": "Uchqo'rg'on district",
+        "name_en": "Uchqo'rg'on district",
+        "name_ru": "\u0423\u0447\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Uchqo'rg'on tumani",
+        "code": 127,
+        "province": 3,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 38,
+    "fields": {
+        "name": "Uychi district",
+        "name_en": "Uychi district",
+        "name_ru": "\u0423\u0439\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Uychi tumani",
+        "code": 128,
+        "province": 3,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 39,
+    "fields": {
+        "name": "Yaniqo'rgon district",
+        "name_en": "Yaniqo'rgon district",
+        "name_ru": "\u042f\u043d\u0433\u0438\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Yaniqo'rgon tumani",
+        "code": 129,
+        "province": 3,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 40,
+    "fields": {
+        "name": "Beshariq district",
+        "name_en": "Beshariq district",
+        "name_ru": "\u0411\u0435\u0448\u0430\u0440\u044b\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Beshariq tumani",
+        "code": 130,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 41,
+    "fields": {
+        "name": "Bog'dod district",
+        "name_en": "Bog'dod district",
+        "name_ru": "\u0411\u0430\u0433\u0434\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Bog'dod tumani",
+        "code": 131,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 42,
+    "fields": {
+        "name": "Buvayda district",
+        "name_en": "Buvayda district",
+        "name_ru": "\u0411\u0443\u0432\u0430\u0439\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Buvayda tumani",
+        "code": 132,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 43,
+    "fields": {
+        "name": "Dang'ara district",
+        "name_en": "Dang'ara district",
+        "name_ru": "\u0414\u0430\u043d\u0433\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Dang'ara tumani",
+        "code": 133,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 44,
+    "fields": {
+        "name": "Farg'ona district",
+        "name_en": "Farg'ona district",
+        "name_ru": "\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Farg'ona tumani",
+        "code": 134,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 45,
+    "fields": {
+        "name": "Furqat district",
+        "name_en": "Furqat district",
+        "name_ru": "\u0424\u0443\u0440\u043a\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Furqat tumani",
+        "code": 135,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 46,
+    "fields": {
+        "name": "Kirguli district",
+        "name_en": "Kirguli district",
+        "name_ru": "\u041a\u0438\u0440\u0433\u0443\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Kirguli tumani",
+        "code": 136,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 47,
+    "fields": {
+        "name": "Oltiariq district",
+        "name_en": "Oltiariq district",
+        "name_ru": "\u0410\u043b\u0442\u044b\u0430\u0440\u044b\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Oltiariq tumani",
+        "code": 137,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 48,
+    "fields": {
+        "name": "Oxunboboyev district",
+        "name_en": "Oxunboboyev district",
+        "name_ru": "\u0410\u0445\u0443\u043d\u0431\u0430\u0431\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Oxunboboyev tumani",
+        "code": 138,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 49,
+    "fields": {
+        "name": "O'zbekiston district",
+        "name_en": "O'zbekiston district",
+        "name_ru": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "O'zbekiston tumani",
+        "code": 139,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 50,
+    "fields": {
+        "name": "Quva district",
+        "name_en": "Quva district",
+        "name_ru": "\u041a\u0443\u0432\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Quva tumani",
+        "code": 140,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 51,
+    "fields": {
+        "name": "Rishton district",
+        "name_en": "Rishton district",
+        "name_ru": "\u0420\u0438\u0448\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Rishton tumani",
+        "code": 141,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 52,
+    "fields": {
+        "name": "So'x district",
+        "name_en": "So'x district",
+        "name_ru": "\u0421\u043e\u0445\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "So'x tumani",
+        "code": 142,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 53,
+    "fields": {
+        "name": "Toshloq district",
+        "name_en": "Toshloq district",
+        "name_ru": "\u0422\u0430\u0448\u043b\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Toshloq tumani",
+        "code": 143,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 54,
+    "fields": {
+        "name": "Uchko'prik district",
+        "name_en": "Uchko'prik district",
+        "name_ru": "\u0423\u0447\u043a\u0443\u043f\u0440\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Uchko'prik tumani",
+        "code": 144,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 55,
+    "fields": {
+        "name": "Yozyovon district",
+        "name_en": "Yozyovon district",
+        "name_ru": "\u042f\u0437\u044a\u044f\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Yozyovon tumani",
+        "code": 145,
+        "province": 4,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 56,
+    "fields": {
+        "name": "Buxoro district",
+        "name_en": "Buxoro district",
+        "name_ru": "\u0411\u0443\u0445\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Buxoro tumani",
+        "code": 146,
+        "province": 5,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 57,
+    "fields": {
+        "name": "G'ijduvon district",
+        "name_en": "G'ijduvon district",
+        "name_ru": "\u0413\u0438\u0436\u0434\u0443\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "G'ijduvon tumani",
+        "code": 147,
+        "province": 5,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 58,
+    "fields": {
+        "name": "Jondor district",
+        "name_en": "Jondor district",
+        "name_ru": "\u0416\u043e\u043d\u0434\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Jondor tumani",
+        "code": 148,
+        "province": 5,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 59,
+    "fields": {
+        "name": "Kogon district",
+        "name_en": "Kogon district",
+        "name_ru": "\u041a\u0430\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Kogon tumani",
+        "code": 149,
+        "province": 5,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 60,
+    "fields": {
+        "name": "Olot district",
+        "name_en": "Olot district",
+        "name_ru": "\u0410\u043b\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Olot tumani",
+        "code": 150,
+        "province": 5,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 61,
+    "fields": {
+        "name": "Peshku district",
+        "name_en": "Peshku district",
+        "name_ru": "\u041f\u0435\u0448\u043a\u0443\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Peshku tumani",
+        "code": 151,
+        "province": 5,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 62,
+    "fields": {
+        "name": "Qorako'l district",
+        "name_en": "Qorako'l district",
+        "name_ru": "\u041a\u0430\u0440\u0430\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qorako'l tumani",
+        "code": 152,
+        "province": 5,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 63,
+    "fields": {
+        "name": "Qorovulbozor district",
+        "name_en": "Qorovulbozor district",
+        "name_ru": "\u041a\u0430\u0440\u0430\u0443\u043b\u0431\u0430\u0437\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qorovulbozor tumani",
+        "code": 153,
+        "province": 5,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 64,
+    "fields": {
+        "name": "Romitan district",
+        "name_en": "Romitan district",
+        "name_ru": "\u0420\u043e\u043c\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Romitan tumani",
+        "code": 154,
+        "province": 5,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 65,
+    "fields": {
+        "name": "Shofirkon district",
+        "name_en": "Shofirkon district",
+        "name_ru": "\u0428\u0430\u0444\u0438\u0440\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Shofirkon tumani",
+        "code": 155,
+        "province": 5,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 66,
+    "fields": {
+        "name": "Vobkent district",
+        "name_en": "Vobkent district",
+        "name_ru": "\u0412\u0430\u0431\u043a\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Vobkent tumani",
+        "code": 156,
+        "province": 5,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 67,
+    "fields": {
+        "name": "Bog'ot district",
+        "name_en": "Bog'ot district",
+        "name_ru": "\u0411\u043e\u0433\u043e\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Bog'ot tumani",
+        "code": 157,
+        "province": 6,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 68,
+    "fields": {
+        "name": "Gurlan district",
+        "name_en": "Gurlan district",
+        "name_ru": "\u0413\u0443\u0440\u043b\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Gurlan tumani",
+        "code": 158,
+        "province": 6,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 69,
+    "fields": {
+        "name": "Pitnyak district",
+        "name_en": "Pitnyak district",
+        "name_ru": "\u041f\u0438\u0442\u043d\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Pitnyak tumani",
+        "code": 159,
+        "province": 6,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 70,
+    "fields": {
+        "name": "Qo'shko'pir district",
+        "name_en": "Qo'shko'pir district",
+        "name_ru": "\u041a\u0443\u0448\u043a\u0443\u043f\u0438\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qo'shko'pir tumani",
+        "code": 160,
+        "province": 6,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 71,
+    "fields": {
+        "name": "Shovot district",
+        "name_en": "Shovot district",
+        "name_ru": "\u0428\u043e\u0432\u043e\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Shovot tumani",
+        "code": 161,
+        "province": 6,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 72,
+    "fields": {
+        "name": "Urganch district",
+        "name_en": "Urganch district",
+        "name_ru": "\u0423\u0440\u0433\u0430\u043d\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Urganch tumani",
+        "code": 162,
+        "province": 6,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 73,
+    "fields": {
+        "name": "Xazorasp district",
+        "name_en": "Xazorasp district",
+        "name_ru": "\u0425\u0430\u0437\u043e\u0440\u0430\u0441\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Xazorasp tumani",
+        "code": 163,
+        "province": 6,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 74,
+    "fields": {
+        "name": "Xiva district",
+        "name_en": "Xiva district",
+        "name_ru": "\u0425\u0438\u0432\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Xiva tumani",
+        "code": 164,
+        "province": 6,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 75,
+    "fields": {
+        "name": "Xonqa district",
+        "name_en": "Xonqa district",
+        "name_ru": "\u0425\u043e\u043d\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Xonqa tumani",
+        "code": 165,
+        "province": 6,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 76,
+    "fields": {
+        "name": "Yangiariq district",
+        "name_en": "Yangiariq district",
+        "name_ru": "\u042f\u043d\u0433\u0438\u0430\u0440\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Yangiariq tumani",
+        "code": 166,
+        "province": 6,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 77,
+    "fields": {
+        "name": "Yangibozor district",
+        "name_en": "Yangibozor district",
+        "name_ru": "\u042f\u043d\u0433\u0438\u0431\u043e\u0437\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Yangibozor tumani",
+        "code": 167,
+        "province": 6,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 78,
+    "fields": {
+        "name": "Angor district",
+        "name_en": "Angor district",
+        "name_ru": "\u0410\u043d\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Angor tumani",
+        "code": 168,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 79,
+    "fields": {
+        "name": "Bandixon district",
+        "name_en": "Bandixon district",
+        "name_ru": "\u041a\u044b\u0437\u0438\u0440\u044b\u043a\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Bandixon tumani",
+        "code": 169,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 80,
+    "fields": {
+        "name": "Boysun district",
+        "name_en": "Boysun district",
+        "name_ru": "\u0411\u0430\u0439\u0441\u0443\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Boysun tumani",
+        "code": 170,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 81,
+    "fields": {
+        "name": "Denov district",
+        "name_en": "Denov district",
+        "name_ru": "\u0414\u0435\u043d\u0430\u0443\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Denov tumani",
+        "code": 171,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 82,
+    "fields": {
+        "name": "Jarqo'rg'on district",
+        "name_en": "Jarqo'rg'on district",
+        "name_ru": "\u0414\u0436\u0430\u0440\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Jarqo'rg'on tumani",
+        "code": 172,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 83,
+    "fields": {
+        "name": "Muzrobot district",
+        "name_en": "Muzrobot district",
+        "name_ru": "\u041c\u0443\u0437\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Muzrobot tumani",
+        "code": 173,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 84,
+    "fields": {
+        "name": "Oltinsoy district",
+        "name_en": "Oltinsoy district",
+        "name_ru": "\u0410\u043b\u0442\u044b\u043d\u0441\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Oltinsoy tumani",
+        "code": 174,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 85,
+    "fields": {
+        "name": "Qiziriq district",
+        "name_en": "Qiziriq district",
+        "name_ru": "\u041a\u0438\u0437\u0438\u0440\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qiziriq tumani",
+        "code": 175,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 86,
+    "fields": {
+        "name": "Qumqo'rg'on district",
+        "name_en": "Qumqo'rg'on district",
+        "name_ru": "\u041a\u0443\u043c\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qumqo'rg'on tumani",
+        "code": 176,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 87,
+    "fields": {
+        "name": "Sariosiyo region",
+        "name_en": "Sariosiyo region",
+        "name_ru": "\u0421\u0430\u0440\u0438\u0430\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Sariosiyo tumani",
+        "code": 177,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 88,
+    "fields": {
+        "name": "Sherobod district",
+        "name_en": "Sherobod district",
+        "name_ru": "\u0428\u0435\u0440\u043e\u0431\u043e\u0434 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Sherobod tumani",
+        "code": 178,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 89,
+    "fields": {
+        "name": "Shurchi District",
+        "name_en": "Shurchi District",
+        "name_ru": "\u0428\u0443\u0440\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Sho'rchi tumani",
+        "code": 179,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 90,
+    "fields": {
+        "name": "Termiz district",
+        "name_en": "Termiz district",
+        "name_ru": "\u0422\u0435\u0440\u043c\u0435\u0437\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Termiz tumani",
+        "code": 180,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 91,
+    "fields": {
+        "name": "Uzun district",
+        "name_en": "Uzun district",
+        "name_ru": "\u0423\u0437\u0443\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Uzun tumani",
+        "code": 181,
+        "province": 7,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 92,
+    "fields": {
+        "name": "Chiroqchi district",
+        "name_en": "Chiroqchi district",
+        "name_ru": "\u0427\u0438\u0440\u0430\u043a\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Chiroqchi tumani",
+        "code": 182,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 93,
+    "fields": {
+        "name": "Dehqonobod district",
+        "name_en": "Dehqonobod district",
+        "name_ru": "\u0414\u0435\u0445\u043a\u0430\u043d\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Dehqonobod tumani",
+        "code": 183,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 94,
+    "fields": {
+        "name": "G'uzor district",
+        "name_en": "G'uzor district",
+        "name_ru": "\u0413\u0443\u0437\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "G'uzor tumani",
+        "code": 184,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 95,
+    "fields": {
+        "name": "Kasbi tumani",
+        "name_en": "Kasbi tumani",
+        "name_ru": "\u041a\u0430\u0441\u0431\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Kasbi district",
+        "code": 185,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 96,
+    "fields": {
+        "name": "Kitob district",
+        "name_en": "Kitob district",
+        "name_ru": "\u041a\u0438\u0442\u0430\u0431\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Kitob tumani",
+        "code": 186,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 97,
+    "fields": {
+        "name": "Koson district",
+        "name_en": "Koson district",
+        "name_ru": "\u041a\u0430\u0441\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Koson tumani",
+        "code": 187,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 98,
+    "fields": {
+        "name": "Mirishkor district",
+        "name_en": "Mirishkor district",
+        "name_ru": "\u041c\u0438\u0440\u0438\u0448\u043a\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Mirishkor tumani",
+        "code": 188,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 99,
+    "fields": {
+        "name": "Mubarak district",
+        "name_en": "Mubarak district",
+        "name_ru": "\u041c\u0443\u0431\u0430\u0440\u0435\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Mubarak tumani",
+        "code": 189,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 100,
+    "fields": {
+        "name": "Nishon district",
+        "name_en": "Nishon district",
+        "name_ru": "\u041d\u0438\u0448\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Nishon tumani",
+        "code": 190,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 101,
+    "fields": {
+        "name": "Qamashi district",
+        "name_en": "Qamashi district",
+        "name_ru": "\u041a\u0430\u043c\u0430\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qamashi tumani",
+        "code": 191,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 102,
+    "fields": {
+        "name": "Qarshi district",
+        "name_en": "Qarshi district",
+        "name_ru": "\u041a\u0430\u0440\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qarshi tumani",
+        "code": 192,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 103,
+    "fields": {
+        "name": "Shahrisabz district",
+        "name_en": "Shahrisabz district",
+        "name_ru": "\u0428\u0430\u0445\u0440\u0438\u0441\u0430\u0431\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Shahrisabz tumani",
+        "code": 193,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 104,
+    "fields": {
+        "name": "Yakkabog' district",
+        "name_en": "Yakkabog' district",
+        "name_ru": "\u042f\u043a\u043a\u0430\u0431\u0430\u0433\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Yakkabog' tumani",
+        "code": 194,
+        "province": 8,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 105,
+    "fields": {
+        "name": "Arnasoy district",
+        "name_en": "Arnasoy district",
+        "name_ru": "\u0410\u0440\u043d\u0430\u0441\u0430\u0439\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Arnasoy tumani",
+        "code": 195,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 106,
+    "fields": {
+        "name": "Baxmal district",
+        "name_en": "Baxmal district",
+        "name_ru": "\u0411\u0430\u0445\u043c\u0430\u043b\u044c\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Baxmal tumani",
+        "code": 196,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 107,
+    "fields": {
+        "name": "Do'stlik district",
+        "name_en": "Do'stlik district",
+        "name_ru": "\u0414\u0443\u0441\u0442\u043b\u0438\u043a\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Do'stlik tumani",
+        "code": 197,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 108,
+    "fields": {
+        "name": "Forish district",
+        "name_en": "Forish district",
+        "name_ru": "\u0424\u0430\u0440\u0438\u0448\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Forish tumani",
+        "code": 198,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 109,
+    "fields": {
+        "name": "G'allaorol district",
+        "name_en": "G'allaorol district",
+        "name_ru": "\u0413\u0430\u043b\u043b\u044f\u0430\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "G'allaorol tumani",
+        "code": 199,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 110,
+    "fields": {
+        "name": "Jizzax district",
+        "name_en": "Jizzax district",
+        "name_ru": "\u0414\u0436\u0438\u0437\u0430\u043a\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Jizzax tumani",
+        "code": 200,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 111,
+    "fields": {
+        "name": "Mirzacho'l district",
+        "name_en": "Mirzacho'l district",
+        "name_ru": "\u041c\u0438\u0440\u0437\u0430\u0447\u0443\u043b\u044c\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Mirzacho'l tumani",
+        "code": 201,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 112,
+    "fields": {
+        "name": "Paxtakor district",
+        "name_en": "Paxtakor district",
+        "name_ru": "\u041f\u0430\u0445\u0442\u0430\u043a\u043e\u0440\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Paxtakor tumani",
+        "code": 202,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 113,
+    "fields": {
+        "name": "Yangiobod district",
+        "name_en": "Yangiobod district",
+        "name_ru": "\u042f\u043d\u0433\u0438\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Yangiobod tumani",
+        "code": 203,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 114,
+    "fields": {
+        "name": "Zafarobod district",
+        "name_en": "Zafarobod district",
+        "name_ru": "\u0417\u0430\u0444\u0430\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Zafarobod tumani",
+        "code": 204,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 115,
+    "fields": {
+        "name": "Zarband district",
+        "name_en": "Zarband district",
+        "name_ru": "\u0417\u0430\u0440\u0431\u0434\u0430\u0440\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Zarband tumani",
+        "code": 205,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 116,
+    "fields": {
+        "name": "Zomin district",
+        "name_en": "Zomin district",
+        "name_ru": "\u0417\u0430\u0430\u043c\u0438\u043d\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Zomin tumani",
+        "code": 206,
+        "province": 9,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 117,
+    "fields": {
+        "name": "Karmana district",
+        "name_en": "Karmana district",
+        "name_ru": "\u041a\u0430\u0440\u043c\u0430\u043d\u0438\u043d\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Karmana tumani",
+        "code": 207,
+        "province": 10,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 118,
+    "fields": {
+        "name": "Konimex district",
+        "name_en": "Konimex district",
+        "name_ru": "\u041a\u0430\u043d\u0438\u043c\u0435\u0445\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Konimex tumani",
+        "code": 208,
+        "province": 10,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 119,
+    "fields": {
+        "name": "Navbahor district",
+        "name_en": "Navbahor district",
+        "name_ru": "\u041d\u0430\u0432\u0431\u0430\u0445\u043e\u0440\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Navbahor tumani",
+        "code": 209,
+        "province": 10,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 120,
+    "fields": {
+        "name": "Nurota district",
+        "name_en": "Nurota district",
+        "name_ru": "\u041d\u0443\u0440\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Nurota tumani",
+        "code": 210,
+        "province": 10,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 121,
+    "fields": {
+        "name": "Qiziltepa district",
+        "name_en": "Qiziltepa district",
+        "name_ru": "\u041a\u044b\u0437\u044b\u043b\u0442\u0435\u043f\u0438\u043d\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qiziltepa tumani",
+        "code": 211,
+        "province": 10,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 122,
+    "fields": {
+        "name": "Tomdi district",
+        "name_en": "Tomdi district",
+        "name_ru": "\u0422\u0430\u043c\u0434\u044b\u043d\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Tomdi tumani",
+        "code": 212,
+        "province": 10,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 123,
+    "fields": {
+        "name": "Uchquduq district",
+        "name_en": "Uchquduq district",
+        "name_ru": "\u0423\u0447\u043a\u0443\u0434\u0443\u043a\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Uchquduq tumani",
+        "code": 213,
+        "province": 10,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 124,
+    "fields": {
+        "name": "Xatirchi district",
+        "name_en": "Xatirchi district",
+        "name_ru": "\u0425\u0430\u0442\u044b\u0440\u0447\u0438\u043d\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Xatirchi district",
+        "code": 214,
+        "province": 10,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 125,
+    "fields": {
+        "name": "Bulung'ur district",
+        "name_en": "Bulung'ur district",
+        "name_ru": "\u0411\u0443\u043b\u0443\u043d\u0433\u0443\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Bulung'ur tumani",
+        "code": 215,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 126,
+    "fields": {
+        "name": "Ishtixon district",
+        "name_en": "Ishtixon district",
+        "name_ru": "\u0418\u0448\u0442\u044b\u0445\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Ishtixon tumani",
+        "code": 216,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 127,
+    "fields": {
+        "name": "Jomboy district",
+        "name_en": "Jomboy district",
+        "name_ru": "\u0414\u0436\u0430\u043c\u0431\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Jomboy tumani",
+        "code": 217,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 128,
+    "fields": {
+        "name": "Kattaqo'rg'on district",
+        "name_en": "Kattaqo'rg'on district",
+        "name_ru": "\u041a\u0430\u0442\u0442\u0430\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Kattaqo'rg'on tumani",
+        "code": 218,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 129,
+    "fields": {
+        "name": "Narpay district",
+        "name_en": "Narpay district",
+        "name_ru": "\u041d\u0430\u0440\u043f\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Narpay tumani",
+        "code": 219,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 130,
+    "fields": {
+        "name": "Nurobod district",
+        "name_en": "Nurobod district",
+        "name_ru": "\u041d\u0443\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Nurobod tumani",
+        "code": 220,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 131,
+    "fields": {
+        "name": "Oqdaryo district",
+        "name_en": "Oqdaryo district",
+        "name_ru": "\u0410\u043a\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Oqdaryo tumani",
+        "code": 221,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 132,
+    "fields": {
+        "name": "Past darg'om district",
+        "name_en": "Past darg'om district",
+        "name_ru": "\u041f\u0430\u0441\u0442\u0434\u0430\u0440\u0433\u043e\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Past darg'om tumani",
+        "code": 222,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 133,
+    "fields": {
+        "name": "Paxtachi district",
+        "name_en": "Paxtachi district",
+        "name_ru": "\u041f\u0430\u0445\u0442\u0430\u0447\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Paxtachi tumani",
+        "code": 223,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 134,
+    "fields": {
+        "name": "Poyariq district",
+        "name_en": "Poyariq district",
+        "name_ru": "\u041f\u0430\u0439\u0430\u0440\u044b\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Poyariq tumani",
+        "code": 224,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 135,
+    "fields": {
+        "name": "Qo'shrabot district",
+        "name_en": "Qo'shrabot district",
+        "name_ru": "\u041a\u043e\u0448\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qo'shrabot tumani",
+        "code": 225,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 136,
+    "fields": {
+        "name": "Samarqand district",
+        "name_en": "Samarqand district",
+        "name_ru": "\u0421\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Samarqand tumani",
+        "code": 226,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 137,
+    "fields": {
+        "name": "Toyloq district",
+        "name_en": "Toyloq district",
+        "name_ru": "\u0422\u0430\u0439\u043b\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Toyloq tumani",
+        "code": 227,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 138,
+    "fields": {
+        "name": "Urgut district",
+        "name_en": "Urgut district",
+        "name_ru": "\u0423\u0440\u0433\u0443\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Urgut tumani",
+        "code": 228,
+        "province": 11,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 139,
+    "fields": {
+        "name": "Boyovut district",
+        "name_en": "Boyovut district",
+        "name_ru": "\u0411\u0430\u044f\u0443\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Boyovut tumani",
+        "code": 229,
+        "province": 12,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 140,
+    "fields": {
+        "name": "Guliston district",
+        "name_en": "Guliston district",
+        "name_ru": "\u0413\u0443\u043b\u0438\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Guliston tumani",
+        "code": 230,
+        "province": 12,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 141,
+    "fields": {
+        "name": "Mirzaobod district",
+        "name_en": "Mirzaobod district",
+        "name_ru": "\u041c\u0438\u0440\u0437\u0430\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Mirzaobod tumani",
+        "code": 231,
+        "province": 12,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 142,
+    "fields": {
+        "name": "Oqoltin district",
+        "name_en": "Oqoltin district",
+        "name_ru": "\u0410\u043a\u0430\u043b\u0442\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Oqoltin tumani",
+        "code": 232,
+        "province": 12,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 143,
+    "fields": {
+        "name": "Sardoba district",
+        "name_en": "Sardoba district",
+        "name_ru": "\u0421\u0430\u0440\u0434\u043e\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Sardoba tumani",
+        "code": 233,
+        "province": 12,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 144,
+    "fields": {
+        "name": "Sayxunobod district",
+        "name_en": "Sayxunobod district",
+        "name_ru": "\u0421\u0430\u0439\u0445\u0443\u043d\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Sayxunobod tumani",
+        "code": 234,
+        "province": 12,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 145,
+    "fields": {
+        "name": "Sirdaryo district",
+        "name_en": "Sirdaryo district",
+        "name_ru": "\u0421\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Sirdaryo tumani",
+        "code": 235,
+        "province": 12,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 146,
+    "fields": {
+        "name": "Xovos district",
+        "name_en": "Xovos district",
+        "name_ru": "\u0425\u0430\u0432\u0430\u0441\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Xovos tumani",
+        "code": 236,
+        "province": 12,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 147,
+    "fields": {
+        "name": "Bekobod district",
+        "name_en": "Bekobod district",
+        "name_ru": "\u0411\u0435\u043a\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Bekobod tumani",
+        "code": 237,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 148,
+    "fields": {
+        "name": "Bo'ka district",
+        "name_en": "Bo'ka district",
+        "name_ru": "\u0411\u0443\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Bo'ka tumani",
+        "code": 238,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 149,
+    "fields": {
+        "name": "Bo'stonliq district",
+        "name_en": "Bo'stonliq district",
+        "name_ru": "\u0411\u043e\u0441\u0442\u0430\u043d\u043b\u044b\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Bo'stonliq tumani",
+        "code": 239,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 150,
+    "fields": {
+        "name": "Chinoz district",
+        "name_en": "Chinoz district",
+        "name_ru": "\u0427\u0438\u043d\u0430\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Chinoz tumani",
+        "code": 240,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 151,
+    "fields": {
+        "name": "Ohangaron district",
+        "name_en": "Ohangaron district",
+        "name_ru": "\u0410\u0445\u0430\u043d\u0433\u0430\u0440\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Ohangaron tumani",
+        "code": 241,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 152,
+    "fields": {
+        "name": "Oqqo'rg'on district",
+        "name_en": "Oqqo'rg'on district",
+        "name_ru": "\u0410\u043a\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Oqqo'rg'on tumani",
+        "code": 242,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 153,
+    "fields": {
+        "name": "O'rta chirchiq district",
+        "name_en": "O'rta chirchiq district",
+        "name_ru": "\u0423\u0440\u0442\u0430\u0447\u0438\u0440\u0447\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "O'rta chirchiq tumani",
+        "code": 243,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 154,
+    "fields": {
+        "name": "Parkent district",
+        "name_en": "Parkent district",
+        "name_ru": "\u041f\u0430\u0440\u043a\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Parkent tumani",
+        "code": 244,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 155,
+    "fields": {
+        "name": "Pskent district",
+        "name_en": "Pskent district",
+        "name_ru": "\u041f\u0441\u043a\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Pskent tumani",
+        "code": 245,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 156,
+    "fields": {
+        "name": "Qibray district",
+        "name_en": "Qibray district",
+        "name_ru": "\u041a\u0438\u0431\u0440\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Qibray tumani",
+        "code": 246,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 157,
+    "fields": {
+        "name": "Quyi chirchiq district",
+        "name_en": "Quyi chirchiq district",
+        "name_ru": "\u041a\u0443\u0439\u0438\u0447\u0438\u0440\u0447\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Quyi chirchiq tumani",
+        "code": 247,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 158,
+    "fields": {
+        "name": "Toshkent district",
+        "name_en": "Toshkent district",
+        "name_ru": "\u0442\u0430\u0448\u043a\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Toshkent tumani",
+        "code": 248,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 159,
+    "fields": {
+        "name": "Yangiyo'l district",
+        "name_en": "Yangiyo'l district",
+        "name_ru": "\u042f\u043d\u0433\u0438\u044e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Yangiyo'l tumani",
+        "code": 249,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 160,
+    "fields": {
+        "name": "Yuqori chirchiq district",
+        "name_en": "Yuqori chirchiq district",
+        "name_ru": "\u042e\u043a\u043e\u0440\u0438\u0447\u0438\u0440\u0447\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Yuqori chirchiq tumani",
+        "code": 250,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 161,
+    "fields": {
+        "name": "Zangiota district",
+        "name_en": "Zangiota district",
+        "name_ru": "\u0417\u0430\u043d\u0433\u0438\u0430\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Zangiota tumani",
+        "code": 251,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 162,
+    "fields": {
+        "name": "Chilonzor  district",
+        "name_en": "Chilonzor  district",
+        "name_ru": "\u0427\u0438\u043b\u0430\u043d\u0437\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Chilonzor  tumani",
+        "code": 77711,
+        "province": 14,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 163,
+    "fields": {
+        "name": "Mirobod  district",
+        "name_en": "Mirobod  district",
+        "name_ru": "\u041c\u0438\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Mirobod  tumani",
+        "code": 77712,
+        "province": 14,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 164,
+    "fields": {
+        "name": "Mirzo Ulug\u02bbbek  district",
+        "name_en": "Mirzo Ulug\u02bbbek  district",
+        "name_ru": "\u041c\u0438\u0440\u0437\u043e-\u0423\u043b\u0443\u0433\u0431\u0435\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Mirzo Ulug\u02bbbek  tumani",
+        "code": 77713,
+        "province": 14,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 165,
+    "fields": {
+        "name": "Olmazor  district",
+        "name_en": "Olmazor  district",
+        "name_ru": "\u0410\u043b\u043c\u0430\u0437\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Olmazor  tumani",
+        "code": 77714,
+        "province": 14,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 166,
+    "fields": {
+        "name": "Sergeli  district",
+        "name_en": "Sergeli  district",
+        "name_ru": "\u0421\u0435\u0440\u0433\u0435\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Sergeli  tumani",
+        "code": 77715,
+        "province": 14,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 167,
+    "fields": {
+        "name": "Shayxontohur  district",
+        "name_en": "Shayxontohur  district",
+        "name_ru": "\u0428\u0430\u0439\u0445\u0430\u043d\u0442\u0430\u0445\u0443\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Shayxontohur  tumani",
+        "code": 77716,
+        "province": 14,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 168,
+    "fields": {
+        "name": "Uch Tepa  district",
+        "name_en": "Uch Tepa  district",
+        "name_ru": "\u0423\u0447\u0442\u0435\u043f\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Uch Tepa  tumani",
+        "code": 77717,
+        "province": 14,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 169,
+    "fields": {
+        "name": "Yakkasaroy  district",
+        "name_en": "Yakkasaroy  district",
+        "name_ru": "\u042f\u043a\u043a\u0430\u0441\u0430\u0440\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Yakkasaroy  tumani",
+        "code": 77718,
+        "province": 14,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 170,
+    "fields": {
+        "name": "Yashnobod district",
+        "name_en": "Yashnobod district",
+        "name_ru": "\u042f\u0448\u043d\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Yashnobod tumani",
+        "code": 77719,
+        "province": 14,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 171,
+    "fields": {
+        "name": "Yunusobod district",
+        "name_en": "Yunusobod district",
+        "name_ru": "\u042e\u043d\u0443\u0441\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "Yunusobod tumani",
+        "code": 77720,
+        "province": 14,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 172,
+    "fields": {
+        "name": "Andijon city",
+        "name_en": "Andijon city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0410\u043d\u0434\u0438\u0436\u0430\u043d",
+        "name_uz": "Andijon shahri",
+        "code": 909,
+        "province": 2,
+        "weight": -1,
+        "location": "40.8153561,72.28375000000005"
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 173,
+    "fields": {
+        "name": "Buxoro city",
+        "name_en": "Buxoro city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0411\u0443\u0445\u0430\u0440\u0430",
+        "name_uz": "Buxoro shahri",
+        "code": 910,
+        "province": 5,
+        "weight": -1,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 174,
+    "fields": {
+        "name": "Farg'ona city",
+        "name_en": "Farg'ona city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0424\u0435\u0440\u0433\u0430\u043d\u0430",
+        "name_uz": "Farg'ona shahri",
+        "code": 911,
+        "province": 4,
+        "weight": -1,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 175,
+    "fields": {
+        "name": "Jizzax city",
+        "name_en": "Jizzax city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0414\u0436\u0438\u0437\u0430\u043a",
+        "name_uz": "Jizzax shahri",
+        "code": 912,
+        "province": 9,
+        "weight": -1,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 176,
+    "fields": {
+        "name": "Urganch city",
+        "name_en": "Urganch city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0423\u0440\u0433\u0435\u043d\u0447",
+        "name_uz": "Urganch shahri",
+        "code": 913,
+        "province": 6,
+        "weight": -1,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 177,
+    "fields": {
+        "name": "Namangan city",
+        "name_en": "Namangan city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d",
+        "name_uz": "Namangan shahri",
+        "code": 914,
+        "province": 3,
+        "weight": -1,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 178,
+    "fields": {
+        "name": "Navoiy city",
+        "name_en": "Navoiy city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041d\u0430\u0432\u043e\u0438",
+        "name_uz": "Navoiy shahri",
+        "code": 915,
+        "province": 10,
+        "weight": -1,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 179,
+    "fields": {
+        "name": "Qarshi city",
+        "name_en": "Qarshi city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041a\u0430\u0440\u0448\u0438",
+        "name_uz": "Qarshi shahri",
+        "code": 916,
+        "province": 8,
+        "weight": -1,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 180,
+    "fields": {
+        "name": "Nukus city",
+        "name_en": "Nukus city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u041d\u0443\u043a\u0443\u0441",
+        "name_uz": "Nukus shahri",
+        "code": 918,
+        "province": 1,
+        "weight": -1,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 181,
+    "fields": {
+        "name": "Samarqand city",
+        "name_en": "Samarqand city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0421\u0430\u043c\u0430\u0440\u043a\u0430\u043d\u0434",
+        "name_uz": "Samarqand shahri",
+        "code": 919,
+        "province": 11,
+        "weight": -1,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 182,
+    "fields": {
+        "name": "Guliston city",
+        "name_en": "Guliston city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0413\u0443\u043b\u0438\u0441\u0442\u0430\u043d",
+        "name_uz": "Guliston shahri",
+        "code": 920,
+        "province": 12,
+        "weight": -1,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 183,
+    "fields": {
+        "name": "Termiz city",
+        "name_en": "Termiz city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0422\u0435\u0440\u043c\u0435\u0437",
+        "name_uz": "Termiz shahri",
+        "code": 921,
+        "province": 7,
+        "weight": -1,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 184,
+    "fields": {
+        "name": "Almalik city",
+        "name_en": "Almalik city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0410\u043b\u043c\u0430\u043b\u044b\u043a",
+        "name_uz": "\u041e\u043b\u043c\u0430\u043b\u0438\u049b \u0448\u0430\u04b3\u0440\u0438",
+        "code": 10001,
+        "province": 13,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 185,
+    "fields": {
+        "name": "Bektemir district",
+        "name_en": "Bektemir district",
+        "name_ru": "\u0411\u0435\u043a\u0442\u0435\u043c\u0438\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "\u0411\u0435\u043a\u0442\u0435\u043c\u0438\u0440 \u0442\u0443\u043c\u0430\u043d\u0438",
+        "code": 20,
+        "province": 14,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 186,
+    "fields": {
+        "name": "Yangiyul city",
+        "name_en": "Yangiyul city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u042f\u043d\u0433\u0438\u044e\u043b\u044c",
+        "name_uz": "\u042f\u043d\u0433\u0438\u0439\u045e\u043b \u0448\u0430\u04b3\u0440\u0438",
+        "code": 23,
+        "province": 15,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 187,
+    "fields": {
+        "name": "Urtachirchik region",
+        "name_en": "Urtachirchik region",
+        "name_ru": "\u0423\u0440\u0442\u0430-\u0427\u0438\u0440\u0447\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "\u040e\u0440\u0442\u0430-\u0447\u0438\u0440\u0447\u0438\u049b \u0442\u0443\u043c\u0430\u043d\u0438",
+        "code": 25,
+        "province": 15,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 188,
+    "fields": {
+        "name": "Bustanlik region",
+        "name_en": "Bustanlik region",
+        "name_ru": "\u0440\u0430\u0439\u043e\u043d \u0411\u0443\u0441\u0442\u0430\u043d\u043b\u0438\u043a",
+        "name_uz": "\u0411\u045e\u0441\u0442\u043e\u043d\u043b\u0438\u043a \u0442\u0443\u043c\u0430\u043d\u0438",
+        "code": 22,
+        "province": 15,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 189,
+    "fields": {
+        "name": "Chikchik city",
+        "name_en": "Chikchik city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0427\u0438\u0440\u0447\u0438\u043a",
+        "name_uz": "\u0427\u0438\u0440\u0447\u0438\u049b \u0448\u0430\u04b3\u0440\u0438",
+        "code": 21,
+        "province": 15,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 190,
+    "fields": {
+        "name": "Angren city",
+        "name_en": "Angren city",
+        "name_ru": "\u0433\u043e\u0440\u043e\u0434 \u0410\u043d\u0433\u0440\u0435\u043d",
+        "name_uz": "Angren shahri",
+        "code": 18,
+        "province": 15,
+        "weight": 0,
+        "location": null
+    }
+},
+{
+    "model": "uzbplaces.region",
+    "pk": 191,
+    "fields": {
+        "name": "Zangiota district",
+        "name_en": "Zangiota district",
+        "name_ru": "\u0417\u0430\u043d\u0433\u0438\u043e\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_uz": "\u0417\u0430\u043d\u0433\u0438\u043e\u0442\u0430 \u0442\u0443\u043c\u0430\u043d\u0438",
+        "code": 26,
+        "province": 15,
+        "weight": 0,
+        "location": null
+    }
+}
+]
