@@ -15,6 +15,10 @@ uzbplaces/tests.py
 uzbplaces/translation.py
 uzbplaces/urls.py
 uzbplaces/views.py
+uzbplaces/fixtures/__init__.py
+uzbplaces/management/__init__.py
+uzbplaces/management/commands/__init__.py
+uzbplaces/management/commands/populate_data.py
 uzbplaces/migrations/0001_initial.py
 uzbplaces/migrations/0002_auto_20161129_2012.py
 uzbplaces/migrations/__init__.py

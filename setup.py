@@ -10,7 +10,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 setup(
     name='django-uzbplaces',
     install_requires=["django-modeltranslation", "django-geoposition"],
-    version='0.3',
+    version='0.4',
     packages=find_packages(exclude=['dist',]),
     package_data={
         'places': ['uzbplaces.fixtures.places.json'],
